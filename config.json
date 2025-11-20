@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "bd.devil.leader@gmail.com",
+    "password": "@bdraqib@123",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61579638275136",
+    "61581351693349",
     ""
   ],
   "GOD": [
@@ -29,15 +29,15 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-"100091084426140"
+"61581351693349"
 ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "—͟͟͞͞𝐎𝐁𝐈𝐓𝐎ヅ",
-  "authorName": "ArYan 🐔",
-  "authorFB": "https://www.facebook.com/aryan.xx.404",
-  "authorEmail": "adriyanaryan4@gmail.com",
-  "prefix": "+",
+  "nickNameBot": "Kamla",
+  "authorName": "Hoon",
+  "authorFB": "https://www.facebook.com/hoon420",
+  "authorEmail": "spyer.rakib@gmail.com",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
