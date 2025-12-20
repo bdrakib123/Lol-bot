@@ -1,62 +1,103 @@
-<img src="https://i.imgur.com/Jsjd0Y0.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> SAGOR -𝗕𝗢𝗧 - 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 SAGOR  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
-<!-- Github README -->
+# ☢ 𝐆𝐎𝐀𝐓 𖣘 𝐁𝐎𝐓 ⚠ 𝐑𝐀𝐊𝐈𝐁
 
-<p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
-</i></b></h3>
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
-
-
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/sagorislam00"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 SAGOR&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
+<p align="center">
+  <img src="https://i.imgur.com/zf6PcY7.jpeg" alt="Bot Preview" width="400" style="border-radius:20px; box-shadow:0 0 35px rgba(0,255,255,0.8); background: linear-gradient(135deg,#00ffff33,#ff00ff33); padding:15px; border:1px solid rgba(255,255,255,0.2);">
 </p>
-<p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/sagorislam00 /count.svg" alt="Visitors">
-</p>
+---
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+📌 About This Bot
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+Goat Bot is a Messenger Multi-Device automation bot with advanced features. It can download photos, videos, stickers, movies, adult content, and perform many automated tasks.
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      :𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 SAGOR
+---
+## 🧩 File Overview
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+| File/Folder | Purpose | Run/Use |
+|-------------|---------|---------|
+| `index.js` | Main bot file | `node index.js` |
+| `package.json` | Dependencies & scripts info | `npm install` |
+| `account.txt` | Bot login session/token | Auto-used |
+| `config.json` | Bot configuration: prefix, owner, etc. | Auto-used |
+| `configCommands.json` | Command-specific configs | Auto-used |
+| `modules/` | All bot commands (JS files) | Auto-loaded |
+| `bot/` | Core bot system | Auto-used |
+| `dashboard/` | Dashboard files | Auto-used |
+| `database/` | Data storage | Auto-used |
+| `fb-chat-api/` | Messenger API | Auto-used |
+| `func/` | Functions handler | Auto-used |
+| `languages/` | Multi-language system | Auto-loaded |
+| `logger/` | Logging system | Auto-used |
+| `scripts/` | Extra scripts | Optional |
+| `Goat.js` | Goat Bot main engine | Auto-used |
+| `update.js` | Auto-update script | Manual/Auto |
+| `updater.js` | Update checker | Auto-used |
+| `utils.js` | Utility functions | Auto-used |
+| `versions.json` | Version management | Auto-used |
+| `README.md` | Documentation | ❌ Not for running |
+| `CHANGELOG.md` | Version log | ❌ Not for running |
 
-- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
-- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
+🚀 How To Run Locally
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+name: Node.js CI
 
-- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 SAGOR](https://www.facebook.com/Xsagorxnxx)
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+    steps:
+    - uses: actions/checkout@v2
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 SAGOR ](https://www.instagram.com/11sagor_islam)
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+    - name: Install dependencies
+      run: npm install
 
-<h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/BAYJID-901"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://fb.com/Xsagorxnxx"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/11sagor_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+    - name: Start the bot
+      env:
+        PORT: 8080
+      run: npm start
+
+
+---
+
+🛠 How To Start Goat Bot
+
+npm install
+node index.js
+
+If you want to use PM2:
+
+npm install -g pm2
+pm2 start index.js --name "GoatBot"
+
+
+---
+
+📝 Notes
+
+This version is fully adapted for Goat Bot.
+
+This README is optimized for your current project structure.
+
+
+
+---
+
+If you want to add badges, extra sections, screenshots, or auto-install commands, just tell me! 🚀
